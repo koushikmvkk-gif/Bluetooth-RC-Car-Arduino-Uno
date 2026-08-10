@@ -457,6 +457,12 @@ This project is licensed under the **MIT License**.
 
 Passionate about Robotics, Embedded Systems, IoT, Automation, AI, and Smart Embedded Solutions.
 
+GitHub:
+https://github.com/koushikmvkk-gif
+
+LinkedIn:
+https://www.linkedin.com/in/koushik-nair-4556b0291
+
 ---
 
 # 🌟 Support
